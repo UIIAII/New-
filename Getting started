@@ -1,0 +1,6 @@
+git add aimbot_simulation.py
+git commit -m "Initial commit"
+git remote add origin https://github.com/USERNAME/aimbot-simulation.git
+git remote add origin https://github.com/USERNAME/aimbot-simulation.git
+git push -u origin main
+.gitignore
